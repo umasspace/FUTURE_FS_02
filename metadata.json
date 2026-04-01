@@ -1,0 +1,7 @@
+{
+  "name": "Wafflewala - Love at First Bite!",
+  "description": "A delightful and energetic digital menu and brand showcase for Wafflewala, featuring a playful design, signature waffle categories, and location details.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
